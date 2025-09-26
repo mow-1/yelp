@@ -1,0 +1,31 @@
+.bg-blue-900 {
+  background-color: #1E2A44;
+}
+
+.bg-blue-800 {
+  background-color: #2A4066;
+}
+
+.text-yellow-400 {
+  color: #FFC107;
+}
+
+.bg-red-500 {
+  background-color: #D32F2F;
+}
+
+.border-yellow-400 {
+  border-color: #FFC107;
+}
+
+.text-white {
+  color: #F5E8C7;
+}
+
+.hover\:bg-blue-800:hover {
+  background-color: #2A4066;
+}
+
+.hover\:text-yellow-400:hover {
+  color: #FFC107;
+}
