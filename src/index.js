@@ -1,6 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './brand.css';
+import './NavBar.css';
+import './Home.css';
+import './ProductCard.css';
+import './LocationPopup.css';
+// Tailwind now provides utilities; keep custom files only if needed
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
